@@ -5,7 +5,8 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: "/TESTE2/", // <-- ALTERE AQUI PARA O NOME DO SEU REPOSITÓRIO!
+    // Define o caminho base correto para que os assets sejam encontrados no GitHub Pages
+    base: "/TESTE2/",
 
     server: {
       port: 3000,
