@@ -1,0 +1,5 @@
+{
+  "name": "Petshop PUCRS",
+  "description": "Objetivo: Criar uma vitrine digital para um petshop, permitindo que clientes visualizem os produtos e serviços oferecidos de forma clara e organizada.\n\nMetas:\n1. Exibir produtos categorizados (Acessórios, Rações, Higiene e Limpeza).\n2. Apresentar no mínimo dois produtos por categoria com imagem, descrição e preço.\n3. Detalhar os serviços de banho e tosa, incluindo a opção com tele-busca.\n4. Fornecer informações de contato do estabelecimento e do autor do site no rodapé.\n5. Garantir uma navegação fluida e intuitiva entre as seções da página com menu e rolagem suave.",
+  "requestFramePermissions": []
+}
