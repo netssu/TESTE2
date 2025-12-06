@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
         </div>
         <div className="mt-8 pt-4 border-t border-slate-700 text-center text-slate-500 text-sm">
           <p className="mb-1">&copy; 2024 Petshop PUCRS. Todos os direitos reservados.</p>
-          <p>Desenvolvido por: [Seu Nome Completo]</p>
+          <p>Desenvolvido por: Henry Eduardo Noronha Silva</p>
         </div>
       </div>
     </footer>
